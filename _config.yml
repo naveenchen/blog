@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Navenchen's Blog'
+title: Navenchen's Blog
 subtitle: ''
 description: ''
 keywords:
@@ -13,8 +13,8 @@ timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
-root: /
+url: http://tinycool.top
+root: /tinycool.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
