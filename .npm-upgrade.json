@@ -1,8 +1,0 @@
-{
-  "ignore": {
-    "hexo-server": {
-      "versions": "2.0.0",
-      "reason": "y"
-    }
-  }
-}
