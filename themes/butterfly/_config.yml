@@ -308,18 +308,18 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: # leancloud application app id
-  appKey: # leancloud application app key
+  appId: g0AheLkSzg9w9wckPxyJ5ruJ-gzGzoHsz# leancloud application app id
+  appKey: M3Bjyu4r2852qEpNN0VScvLQ# leancloud application app key
   pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
-  lang: en # i18n: zh-CN/zh-TW/en/ja
-  placeholder: Please leave your footprints # valine comment input placeholder (like: Please leave your footprints)
+  lang: zh-CN # i18n: zh-CN/zh-TW/en/ja
+  placeholder: 写点儿想说的话......请记得文明发言哦！ # valine comment input placeholder (like: Please leave your footprints)
   guest_info: nick,mail,link # valine comment header info (nick/mail/link)
   recordIP: false # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
-  emojiCDN: # emoji CDN
-  enableQQ: false # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
+  emojiCDN: 'https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji@1.0.0/qq/'# emoji CDN
+  enableQQ: true # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
   requiredFields: nick,mail # required fields (nick/mail)
   option:
 
